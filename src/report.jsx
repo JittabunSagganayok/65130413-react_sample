@@ -65,11 +65,11 @@ export default class report extends Component {
         style={{ background: 'linear-gradient(45deg, rgba(29, 236, 197, 0.5), rgba(91, 14, 214, 0.5) 100%)'
         }}>
           <Container>
-            <Navbar.Brand href="#">ค้นหาเลขไปรษณีย์</Navbar.Brand>
+            <Navbar.Brand href="#">ค้นหาเลขไปรษณีย์ CHANGE</Navbar.Brand>
             <div style={{color:"white",fontSize:"20px", 
             // background: 'linear-gradient(45deg, rgba(29, 236, 197, 0.5), rgba(91, 14, 214, 0.5) 100%)'
             }} >
-              65130413 Jitabun Sagganayok
+              65130413 Jitabun Sagganayok 
             </div>
           </Container>
         </Navbar>
