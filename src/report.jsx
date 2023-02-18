@@ -69,7 +69,7 @@ export default class report extends Component {
             <div style={{color:"white",fontSize:"20px", 
             // background: 'linear-gradient(45deg, rgba(29, 236, 197, 0.5), rgba(91, 14, 214, 0.5) 100%)'
             }} >
-              65130413 Jitabun Sagganayok 
+              65130413 Jitabun Sagganayok .
             </div>
           </Container>
         </Navbar>
