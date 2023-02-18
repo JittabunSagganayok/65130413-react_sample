@@ -9,6 +9,8 @@ import Card from "react-bootstrap/Card";
 import Table from "react-bootstrap/Table";
 import axios from "axios";
 import Common from "./common";
+import Image from 'react-bootstrap/Image'
+// วิธีย่อ import import {Image,Table} from 'react-bootstrap'
 const BASE_URL = Common.API_URL;
 export default class report extends Component {
   state = {
@@ -65,11 +67,14 @@ export default class report extends Component {
         style={{ background: 'linear-gradient(45deg, rgba(29, 236, 197, 0.5), rgba(91, 14, 214, 0.5) 100%)'
         }}>
           <Container>
-            <Navbar.Brand href="#">ค้นหาเลขไปรษณีย์ CHANGE</Navbar.Brand>
+            <Navbar.Brand href="#">ค้นหาเลขไปรษณีย์</Navbar.Brand>
             <div style={{color:"white",fontSize:"20px", 
             // background: 'linear-gradient(45deg, rgba(29, 236, 197, 0.5), rgba(91, 14, 214, 0.5) 100%)'
             }} >
-              65130413 Jitabun Sagganayok .
+              
+              <Image src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cat03.jpg/220px-Cat03.jpg" 
+              roundedCircle thumbnail style={{width:"70px"}} />
+              {" "} 65130413 จิตบุณย์ สัคคะนายก
             </div>
           </Container>
         </Navbar>
