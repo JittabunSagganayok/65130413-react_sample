@@ -72,7 +72,7 @@ export default class report extends Component {
             // background: 'linear-gradient(45deg, rgba(29, 236, 197, 0.5), rgba(91, 14, 214, 0.5) 100%)'
             }} >
               
-              <Image src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cat03.jpg/220px-Cat03.jpg" 
+              <Image src="https://scontent.fbkk15-1.fna.fbcdn.net/v/t31.18172-8/16402936_1249194155156448_333421326951434383_o.jpg?_nc_cat=107&ccb=1-7&_nc_sid=174925&_nc_ohc=LitN6EDsWS4AX8gvTik&_nc_ht=scontent.fbkk15-1.fna&oh=00_AfA1CZ909NLgwlLv8zlcW_9X4klnaYaoWMIj8ePUwjKZow&oe=641804D3" 
               roundedCircle thumbnail style={{width:"70px"}} />
               {" "} 65130413 จิตบุณย์ สัคคะนายก
             </div>
